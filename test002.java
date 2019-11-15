@@ -1,3 +1,4 @@
+//**********哈哈哈哈
 Class {
 
 	public static void main(String[] args){
